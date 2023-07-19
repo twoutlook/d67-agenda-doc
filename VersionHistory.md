@@ -7,4 +7,6 @@
 - Create Azure App Service with auto deployment
 
 <img width="800" alt="2023-07-19" src="https://github.com/twoutlook/d67-agenda-doc/assets/16488072/8ee29050-122a-4c7f-b3b8-caccd03b881d">
-![2023-07-19-002](https://github.com/twoutlook/d67-agenda-doc/assets/16488072/9a0d7f1a-2527-4ca6-b78c-a42fd2b409cf)
+<img width="800" alt="2023-07-19-002" src="https://github.com/twoutlook/d67-agenda-doc/assets/16488072/9a0d7f1a-2527-4ca6-b78c-a42fd2b409cf">
+
+
