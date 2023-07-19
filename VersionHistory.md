@@ -1,4 +1,5 @@
 ## 2023-07-19 https://d67agenda001.azurewebsites.net is alive
+#### 最基本的 Club 和 Member 的增刪改查, 還沒有設任何權限。實施 Azure-Github 自動更新部署。
 - Create Table Club and Member on Azure SQL DB
 - Add some clubs and members using SSMS
 - Use Radzen to create project
