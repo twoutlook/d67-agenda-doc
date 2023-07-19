@@ -1,7 +1,7 @@
 # D67數位轉型委員會 Agenda Automation
 ## 主旨: 建立 Agenda Automation 需求並協同測試 WebApp 功能
 ## 說明:
-- 各分會可以使用<b>社團法人中華民國國際演講協會數位轉型委員會</b>現有資源, 專案開發WebApp, 可以online調試例會Agenda.
+- 各分會可以使用<b>社團法人中華民國國際演講協會數位轉型委員會</b>現有資源, 及本專案WebApp, online調試例會Agenda.
 - 上述 Agenda 可供其它分會及來賓 online 查看.
 - 可客製為傳統 pdf 檔案格式.
 - 可客製為手機優化查看.
