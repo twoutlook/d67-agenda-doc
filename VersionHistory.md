@@ -1,4 +1,4 @@
-###2023-07-19 https://d67agenda001.azurewebsites.net is alive, [Click here to visit the website](https://d67agenda001.azurewebsites.net)
+## 2023-07-19 https://d67agenda001.azurewebsites.net is alive
 - Create Table Club and Member on Azure SQL DB
 - Add some clubs and members using SSMS
 - Use Radzen to create project
