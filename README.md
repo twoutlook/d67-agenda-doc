@@ -8,7 +8,7 @@
 <p>此外，這些線上Agenda可供其它分會及來賓查看。此外，還可以客製化為PDF檔案格式，或者優化為手機友善的觀看格式。此專案更可擴展為記錄演講備稿和會員Pathway的工具。</p>
 
 <h3>如何參與：</h3>
-<p>我們歡迎所有有興趣的Toastmasters會員加入，不限地區、部門或領域，也無需擔任教育副會長。</p>
+<p>我們歡迎所有有興趣的Toastmasters會員加入，不限區部或分會，也無需擔任教育副會長。</p>
 
 <p>請直接發送郵件至 <a href="mailto:mark.pl.chen@toastmasters.org.tw">mark.pl.chen@toastmasters.org.tw</a>，並在主旨中註明「參與D67數位轉型委員會Agenda Automation」。在郵件內容中，請提供以下資訊：</p>
 <ol>
