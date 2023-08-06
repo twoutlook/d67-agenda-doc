@@ -3,7 +3,7 @@
 <h2>主題：協同開發並測試WebApp功能以實現Agenda自動化需求</h2>
 
 正在進行中...
-[https://d67agenda002v3.azurewebsites.net](https://d67agenda002v3.azurewebsites.net/)
+[https://d67agenda003v2.azurewebsites.net](https://d67agenda003v2.azurewebsites.net/)
 
 <h3>詳細資訊：</h3>
 <p>我們邀請各個分會利用國際演講協會數位轉型委員會提供的現有資源和此專案的WebApp，進行線上Agenda的調試。</p>
